@@ -4,12 +4,6 @@ next: "Introduction | Présentation de l'entreprise"
 
 # Accueil
 
-<CustomContainer type="warning">
-<p>
-Ce site est en cours de construction. Certaines parties ne sont pas encore disponibles ou incomplètes.
-</p>
-</CustomContainer>
-
 Bienvenue sur mon rapport d'alternance pour ma troisième année de BUT Informatique[^1] à l'[IUT Nancy-Charlemagne](https://iut-charlemagne.univ-lorraine.fr/).
 
 Ce site est un support pour mon rapport, il contient des informations sur mon **entreprise d'accueil**, mes **missions**, les **compétences acquises**, etc.
